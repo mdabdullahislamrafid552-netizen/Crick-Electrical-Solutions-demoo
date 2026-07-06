@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 120" width="100%" height="100%">
+  <!-- Amber Triangle Background for Icon -->
+  <polygon points="60,20 20,90 100,90" fill="#FFBF00" />
+  
+  <!-- Black Lightbulb/Plug Icon -->
+  <g stroke="#0a0a0a" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60,35 C45,35 45,55 50,65 C52,69 54,75 54,80 L66,80 C66,75 68,69 70,65 C75,55 75,35 60,35 Z" />
+    <line x1="56" y1="80" x2="64" y2="80" />
+    <line x1="56" y1="85" x2="64" y2="85" />
+    <line x1="56" y1="90" x2="64" y2="90" />
+    <!-- Plug pins -->
+    <line x1="54" y1="90" x2="54" y2="100" stroke-width="3" />
+    <line x1="66" y1="90" x2="66" y2="100" stroke-width="3" />
+  </g>
+  
+  <!-- Text -->
+  <text x="120" y="60" font-family="'Inter', sans-serif" font-weight="800" font-size="28" fill="#0a0a0a" letter-spacing="1">CRICK ELECTRICAL</text>
+  <text x="120" y="85" font-family="'Inter', sans-serif" font-weight="600" font-size="20" fill="#666" letter-spacing="4">SOLUTIONS</text>
+</svg>
